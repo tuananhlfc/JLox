@@ -1,5 +1,7 @@
 package com.craftinginterpreters.lox;
 
+import static com.craftinginterpreters.lox.TokenType.*;
+
 public class Token {
     final TokenType type;
     final String lexeme;

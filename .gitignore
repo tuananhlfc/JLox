@@ -3,6 +3,7 @@
 
 # Log file
 *.log
+.DS_Store
 
 # Intelij files
 .idea/*
